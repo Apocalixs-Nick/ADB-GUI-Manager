@@ -1,21 +1,5 @@
 /adb_gui_manager.json
-
-# Default ignored files
-/.idea/shelf
-/.idea/workspace.xml
-
-# Editor-based HTTP Client requests
-/.idea/httpRequests
-
-# Datasource local storage
-/.idea/dataSources/
-/.idea/dataSources.local.xml
+/.idea/
 
 # File-based project format
 *.iml
-
-# JetBrains IDE-generated project files
-/.idea/modules.xml
-/.idea/misc.xml
-/.idea/vcs.xml
-/.idea/inspectionProfiles/
